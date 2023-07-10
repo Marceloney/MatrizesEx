@@ -1,0 +1,15 @@
+C:\visualStudio\Exercicio008\Exercicio008\bin\Debug\net7.0\Exercicio008.exe
+C:\visualStudio\Exercicio008\Exercicio008\bin\Debug\net7.0\Exercicio008.deps.json
+C:\visualStudio\Exercicio008\Exercicio008\bin\Debug\net7.0\Exercicio008.runtimeconfig.json
+C:\visualStudio\Exercicio008\Exercicio008\bin\Debug\net7.0\Exercicio008.dll
+C:\visualStudio\Exercicio008\Exercicio008\bin\Debug\net7.0\Exercicio008.pdb
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.csproj.AssemblyReference.cache
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.AssemblyInfoInputs.cache
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.AssemblyInfo.cs
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.csproj.CoreCompileInputs.cache
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.dll
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\refint\Exercicio008.dll
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.pdb
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\Exercicio008.genruntimeconfig.cache
+C:\visualStudio\Exercicio008\Exercicio008\obj\Debug\net7.0\ref\Exercicio008.dll
